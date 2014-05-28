@@ -9,7 +9,8 @@ gem 'coffee-rails', '~> 4.0.0'
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
-gem 'spring', group: :developmen# learn-rails
+gem 'spring', group: :development
+# learn-rails
 gem 'activerecord-tableless'
 gem 'foundation-rails'
 gem 'gibbon'
